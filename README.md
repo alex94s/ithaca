@@ -1,1 +1,1 @@
-# ithaca-capital
+# ithaca
